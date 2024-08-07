@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/hrishikesh/Downloads/nature-3082832_1920.jpg' 
